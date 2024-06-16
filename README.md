@@ -2,6 +2,8 @@
 
 [Demo video](https://www.youtube.com/watch?v=vCy49uur-SA)
 
+Key Skills: Medical device design, research, Solidworks (3D modelling)
+
 ## Abstract
 The reality of the commercially available
 prostheses lies in that they are expensive, highly complex to use
